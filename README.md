@@ -71,7 +71,7 @@ Ref.7z                      reference material
 ## Notes
 
 The `Measurements.*.apk` files in the project folder are an old build of the
-[Measurements Mobile](https://github.com/JRouss1975/Measurements_Mobile) app and
+[Measurements Mobile](https://github.com/JRouss1975/Measurements_Mobile_Xamarin) app and
 are not used by this application.
 
 ---
